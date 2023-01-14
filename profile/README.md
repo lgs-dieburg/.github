@@ -5,9 +5,9 @@ Wir sind eine Schule der Vielfalt: 12 Schulformen und mehr als 10 Berufsfelder.
 
 Berufsorientierung, Berufsausbildung und Studienvorbereitung sind unsere Arbeitsfelder und wir verbinden Berufspraxis, Berufstheorie und Allgemeinbildung.  
 
-Wir betreiben Standortsicherung für berufliche Bildung in Dieburg – als Selbstständige Berufliche Schule (SBS) mit dem Schwerpunkt „Qualitätsentwicklung“.
+Hier auf GitHub können Schüler Quellcode aus dem Unterricht oder privaten Projekten hochladen.
 
-In dieser GitHub Organisation laden können Schüler Quellcode aus dem Unterricht oder privaten Projekten hochladen.
+Weitere Informationen findet ihr auf unserer [Homepage](https://lgs-dieburg.de)
 <!--
 
 **Here are some ideas to get you started:**
