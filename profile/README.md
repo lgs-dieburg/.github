@@ -1,5 +1,13 @@
-## Hi there 👋
+## Willkommen an der Landrat Gruber Schule Dieburg👋
+Wir sind das Berufliche Schulzentrum des Landkreises Darmstadt-Dieburg – eine Schule mit europäischer und internationaler Ausrichtung.  
 
+Wir sind eine Schule der Vielfalt: 12 Schulformen und mehr als 10 Berufsfelder.  
+
+Berufsorientierung, Berufsausbildung und Studienvorbereitung sind unsere Arbeitsfelder und wir verbinden Berufspraxis, Berufstheorie und Allgemeinbildung.  
+
+Wir betreiben Standortsicherung für berufliche Bildung in Dieburg – als Selbstständige Berufliche Schule (SBS) mit dem Schwerpunkt „Qualitätsentwicklung“.
+
+In dieser GitHub Organisation laden können Schüler Quellcode aus dem Unterricht oder privaten Projekten hochladen.
 <!--
 
 **Here are some ideas to get you started:**
