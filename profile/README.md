@@ -1,5 +1,5 @@
 ## Willkommen an der Landrat Gruber Schule Dieburg👋
-Wir sind das Berufliche Schulzentrum des Landkreises Darmstadt-Dieburg – eine Schule mit europäischer und internationaler Ausrichtung.  
+Wir sind das Berufliche Schulzentrum des Landkreises Darmstadt-Dieburg.  
 
 Wir sind eine Schule der Vielfalt: 12 Schulformen und mehr als 10 Berufsfelder.  
 
